@@ -24,4 +24,5 @@ Lugar na fila
 Opção de avaliação (estrelas)
 
 -O fluxo principal é a sequência de ações essenciais que o usuário realiza para completar a função principal ao sistema.
+![Prototipo](https://github.com/user-attachments/assets/764dbcc4-8d28-493b-886c-afa8136bcdee)
 
